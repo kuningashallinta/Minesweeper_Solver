@@ -1,0 +1,12 @@
+# Build outputs and intermediates
+/build/
+
+# Visual Studio local settings and caches
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+ipch/
+PredictedInputCache_*.dat
